@@ -1,0 +1,15 @@
+set size square
+set xrange [-0.025:0.025]
+set xlabel 'x'
+set yrange [-0.005:0.045]
+set ylabel 'y'
+set zrange [-0.035:0.015]
+set zlabel 'z'
+set xtics 0.01
+set ytics 0.01
+set ztics 0.01
+set ticslevel 0
+        
+
+
+splot "0105400.txt" u 2:3:4 w l lt 7 lw 2 notitle
