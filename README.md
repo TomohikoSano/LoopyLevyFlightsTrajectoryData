@@ -1,5 +1,5 @@
 # LoopyLevyFlightsTrajectory
-Time series data in Fig.1(c) and 2(a) of arXiv:1906.00608.
+Time series data in Fig.1(c) and 2(a) of Nature volume 579, pages364–367(2020).
 
 ######0105400.txt########
 
